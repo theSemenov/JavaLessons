@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a6e200-f370-4f2e-ba7f-396506a1341f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part1/airport/AirportDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson1Part1/src/airport/AirportDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part1/airport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson1Part1/src/airport/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part2/airport/AirportDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson1Part2/src/airport/AirportDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part2/airport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson1Part2/src/airport/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part4/airport/AirportDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson1Part3/src/airport/AirportDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part4/airport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson1Part3/src/airport/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part2/airport/AirportDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part2/airport/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part4/airport/AirportDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ru/lesson1/part4/airport/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,6 +84,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1041" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
